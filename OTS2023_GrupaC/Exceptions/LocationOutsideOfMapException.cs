@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace OTS2023_GrupaC.Exceptions
+namespace OTS2026_GrupaC.Exceptions
 {
     public class LocationOutsideOfMapException: Exception
     {

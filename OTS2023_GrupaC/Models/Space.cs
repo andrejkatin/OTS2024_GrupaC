@@ -1,6 +1,6 @@
 ﻿
 
-namespace OTS2023_GrupaC.Models
+namespace OTS2026_GrupaC.Models
 {
     public class Space
     {
